@@ -6,5 +6,5 @@ constructor(name:string)
 this.name=name;
 }
 }
-let clsc=new Abc("supreeta")
+let clsc=new Abc("supreeta()")
 console.log(clsc.name);
